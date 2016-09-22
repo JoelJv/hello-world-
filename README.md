@@ -1,2 +1,4 @@
 # hello-world-
-solo un hola mundo
+hola-mundo
+
+Soy una especie de Ser humano a base de carbono y en proceso de oxidación.  
